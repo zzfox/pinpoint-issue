@@ -1,0 +1,57 @@
+2018-06-12 17:08:08 [WARN ](.p.r.c.DefaultPinpointClientHandler) DefaultPinpointClientHandler@57ea113a exceptionCaught() occurred. state:RUN_SIMPLEX. Caused:远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-06-12 17:08:08 [WARN ](.p.r.c.DefaultPinpointClientHandler) DefaultPinpointClientHandler@4b45dcb8 exceptionCaught() occurred. state:RUN_SIMPLEX. Caused:远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-06-12 17:08:11 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9996}
+2018-06-12 17:08:11 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9995}
+2018-06-12 17:08:14 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9996}
+2018-06-12 17:08:14 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9995}
+2018-06-12 17:08:17 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9996}
+2018-06-12 17:08:17 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9995}
+2018-06-12 17:08:19 [WARN ](.p.p.s.TcpDataSender@StatDataSender) tcp send fail. Caused:reconnecting...
+com.navercorp.pinpoint.rpc.PinpointSocketException: reconnecting...
+	at com.navercorp.pinpoint.rpc.client.DefaultPinpointClientHandler.ensureOpen(DefaultPinpointClientHandler.java:457)
+	at com.navercorp.pinpoint.rpc.client.DefaultPinpointClientHandler.send0(DefaultPinpointClientHandler.java:307)
+	at com.navercorp.pinpoint.rpc.client.DefaultPinpointClientHandler.sendAsync(DefaultPinpointClientHandler.java:238)
+	at com.navercorp.pinpoint.rpc.client.DefaultPinpointClient.sendAsync(DefaultPinpointClient.java:109)
+	at com.navercorp.pinpoint.profiler.sender.TcpDataSender.doSend(TcpDataSender.java:226)
+	at com.navercorp.pinpoint.profiler.sender.TcpDataSender.sendPacket(TcpDataSender.java:199)
+	at com.navercorp.pinpoint.profiler.sender.AbstractDataSender$1.execute(AbstractDataSender.java:68)
+	at com.navercorp.pinpoint.profiler.sender.AsyncQueueingExecutor.doExecute(AsyncQueueingExecutor.java:172)
+	at com.navercorp.pinpoint.profiler.sender.AsyncQueueingExecutor.doExecute(AsyncQueueingExecutor.java:96)
+	at com.navercorp.pinpoint.profiler.sender.AsyncQueueingExecutor.run(AsyncQueueingExecutor.java:79)
+	at java.lang.Thread.run(Thread.java:745)
+2018-06-12 17:08:20 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9996}
+2018-06-12 17:08:20 [WARN ](c.n.p.r.c.DefaultPinpointClient    ) reconnectClientHandler:DefaultPinpointClientHandler@5e098510{channel=[id: 0x23931a4c, /172.16.20.29:50661 => /172.16.17.90:9996]state=SocketState(NONE->BEING_CONNECT)}
+2018-06-12 17:08:20 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9995}
+2018-06-12 17:08:20 [WARN ](c.n.p.r.c.DefaultPinpointClient    ) reconnectClientHandler:DefaultPinpointClientHandler@f9234c5{channel=[id: 0x9e53013d, /172.16.20.29:50663 => /172.16.17.90:9995]state=SocketState(NONE->BEING_CONNECT)}

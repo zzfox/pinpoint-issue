@@ -1,0 +1,69 @@
+2018-06-12 17:06:14 [INFO ](com.navercorp.pinpoint.bootstrap.config.DefaultProfilerConfig) profiler.jdk.http.param=true
+2018-06-12 17:06:14 [INFO ](com.navercorp.pinpoint.bootstrap.config.DefaultProfilerConfig) profiler.jdk.http.param=true
+2018-06-12 17:06:14 [INFO ](com.navercorp.pinpoint.bootstrap.config.DefaultProfilerConfig) profiler.jdk.http.param=true
+2018-06-12 17:08:02 [WARN ](.p.r.c.DefaultPinpointClientHandler) DefaultPinpointClientHandler@47f4e407 exceptionCaught() occurred. state:RUN_DUPLEX. Caused:远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-06-12 17:08:05 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9994}
+2018-06-12 17:08:07 [WARN ](.p.r.c.DefaultPinpointClientHandler) DefaultPinpointClientHandler@6622fc65 exceptionCaught() occurred. state:RUN_SIMPLEX. Caused:远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-06-12 17:08:08 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9994}
+2018-06-12 17:08:10 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9996}
+2018-06-12 17:08:11 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9994}
+2018-06-12 17:08:13 [WARN ](.p.r.c.DefaultPinpointClientHandler) DefaultPinpointClientHandler@25a6944c exceptionCaught() occurred. state:RUN_SIMPLEX. Caused:远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-06-12 17:08:13 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9996}
+2018-06-12 17:08:14 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9994}
+2018-06-12 17:08:16 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9995}
+2018-06-12 17:08:17 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9996}
+2018-06-12 17:08:17 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9994}
+2018-06-12 17:08:19 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9995}
+2018-06-12 17:08:19 [WARN ](c.n.p.r.c.DefaultPinpointClient    ) reconnectClientHandler:DefaultPinpointClientHandler@5bdd2c42{channel=[id: 0x2e052206, /172.16.20.29:50658 => /172.16.17.90:9995]state=SocketState(NONE->BEING_CONNECT)}
+2018-06-12 17:08:20 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9996}
+2018-06-12 17:08:20 [WARN ](c.n.p.r.c.DefaultPinpointClient    ) reconnectClientHandler:DefaultPinpointClientHandler@4a19ee3a{channel=[id: 0x348b3a1d, /172.16.20.29:50659 => /172.16.17.90:9996]state=SocketState(NONE->BEING_CONNECT)}
+2018-06-12 17:08:21 [WARN ](.r.c.ConnectionFactory$ConnectEvent) try reconnect. connectAddress:DnsSocketAddressProvider{host='172.16.17.90', port=9994}
+2018-06-12 17:08:21 [WARN ](c.n.p.r.c.DefaultPinpointClient    ) reconnectClientHandler:DefaultPinpointClientHandler@70ca1162{channel=[id: 0x225e2033, /172.16.20.29:50664 => /172.16.17.90:9994]state=SocketState(NONE->BEING_CONNECT)}
