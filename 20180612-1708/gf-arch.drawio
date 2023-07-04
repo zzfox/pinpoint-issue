@@ -1,1 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T02:09:14.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="06iGK72_mB_lGP7NXLif" version="15.8.2" type="github"><diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">7Vtbc5s4FP41fmyGm7g85ubdmW53MuPMbPuogGzYYkSFfNtfv5KRbECKS2Mw1En8EHQQIH3f+Y6OhJjY98vtHwTm8RccoXRiGdF2Yj9MLMvyTZf945ZdaTHtwC8tC5JEwnY0zJL/kDAawrpKIlTUKlKMU5rkdWOIswyFtGaDhOBNvdocp/Wn5nCBFMMshKlq/SeJaFxafWAc7X+iZBHLJ5uGOLOEsrIwFDGM8KZish8n9j3BmJZHy+09Sjl6EpfyuukrZw8NIyijbS6IPkcz+PXR8WeLp5c4hMuZ9fmTLRq3hulK9Fi0lu4kBJs4oWiWw5CXN4zniX0X02XKSiY7LCjB39E9TjFhlgxn6GCUiPFq8yRNZaWJZc8B/3E7zqig3XRYWbQHEYq2r/bUPODHPA/hJaJkx6rICwKnvEQ4neuJXm6ODJqGB0pjXKHPluxB4TaLw82PyLIDAe6vAG2+A6CB0RZo0+0NaOsagfbrQNt2a6Cd3oC2FaD/ZvFfAbsCrA73Boq30+n0dsrxjmHOqy23Cz603EASxgkLqsi+gXmeJiGkCc5YRVZ63u2rZvzxzMBrClPxY8VA1pDC6WD3SG/TZMHu8kBx3g1VdmDUqPJNoFDl+IaOKdAXU45CCorYKCeKKH3Bm8ej4Y7gVRahSJC2P82OJWJNrUByANbg1bPolo+7rPyS4vB7aZomvMkPokK1/r+I0p0wwBXFzIQJjfECZzD9C3NaNKJknuIb/KehNoJFfGh92XPe3dN8MnTwioToFIyCH9bjBaInKjqG3kMISpnTrust6Z5toAmAbko5MsmaHS7oHpfS9EKaFvbQSr3ZrqBoqbnBDM/phmtLe9kFogBFIZPTHf8nxb4rZpt+ArDj1AOw72oCsKNRdX/jnPsh6i5E7bUVNRhU1F6Xoj5xaZHDTK99dovqyTeEhPcQKFx/dIHCHyZQ4Bxll48TjCay+8qfdmMBWf7WfdyQFP48bgSDxo3gg3zZmW1CxTkXiPK3fdkwPFF+QiRhwCMiWjyIw3hnOsz+UkYE3FUq5DjJaFG58xM3VBIcOU1urJkcna+849EVD017u3c66urTDJF1El5iFlmIJ/WTL0rhSTh9zTAANMMA6GsYcEwF0yuOBF0Kt+20D9hDCDcw6p7mGZcQrrqmdsXOVBlWTowqnhvURxVLjjJ9jiqtnfOVeNWvc/oN53TBJZzT/nDOpnM6rj9i5zw7R36Tc7pBwzmtSzjnQGuxAznnMecGZt0BDWtMDjhIzg38IaKjujx8JTm3640u5x5ojfb3z7nbrsoC50zhnsevuir7BUerVJWS1ESIlznO9njcQfHqMWRFHv2aggqCOftjdiajKGGVGm+ke5CQbdUlBEyNhHzNa2a/Nwm9q9XLLiUUtJXQoC82ZDOvRkJAvqoZjYTk8PYhoV+UEJAbDn8qIXdICclmXo2EPNe8AWMT0bta8epSRHZbEZ07BzuPX3U32+8tosAdWyoHHAXi6SoL99v4zpt6cnCD4PTU87VNg3PWhEl90+BBu72k2I7bCG62bouAbp7q9bVBEKhrAgzdFL5gAgemJ9y3Y9JyV2cX+RtwxsePq/BzW8HLMh7XvHfDsYTWIg5eSkVeY61nBBypawFPBIeoKAbkJWctuCQtgT/C4OYrxDyjMM4Ywoudwg3rO21mZ5qvAaocCZOSAzS3mC+TKNrnhlrSe/howGqkAJ6cKVS4sHR70azeUgB1tl8LZO+IDOAMTYar7r65WxVJpgtZV8UEaIwd8jXMcEz0uDentnF6hBu7J91NNV0xRx/5WwPZzFNfqPWQIoQUk34UZZkNQQF1zNcN+UFfQ76rTuafE6qZy4uw1jaWVVipwGg5sixubJ6Kcko87IAACe5hC5gm5Qo0BLzh20BWPH6yXL6TPn75bT/+Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:26:45.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6rZGk8nyVXVeJQKkdhp_" version="15.8.2" type="github">
+  <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-62" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="47" y="516" width="41" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-20" value="福利管理平台" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="180.5" y="513.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#999999;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-62" target="laOTccNDS0RMXgACTKcb-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="138" y="550" as="sourcePoint" />
+            <mxPoint x="188" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-26" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="368" y="680" width="390" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-27" value="积分开户" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="398" y="696" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#999999;entryX=0;entryY=0;entryDx=2.9;entryDy=2.9;entryPerimeter=0;width=10;endSize=6.29;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="laOTccNDS0RMXgACTKcb-20" target="laOTccNDS0RMXgACTKcb-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511" y="588" as="sourcePoint" />
+            <mxPoint x="548" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-29" value="积分发放" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="516" y="696" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-30" value="积分回收" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="638" y="696" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-31" value="发放明细查询" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="398" y="744" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-32" value="扣减明细查询" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="516" y="744" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-33" value="积分余额查询" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="638" y="744" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-34" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="48" y="979" width="41" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-35" value="福利商城" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="180.5" y="923.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-37" value="收银台" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="393" y="923" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-38" value="积分扣减" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="398" y="790" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-39" value="积分退回" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="516" y="790" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-40" value="&lt;span&gt;交易对账&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="638" y="790" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-43" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="laOTccNDS0RMXgACTKcb-35" target="laOTccNDS0RMXgACTKcb-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="358.5" y="960.5" as="sourcePoint" />
+            <mxPoint x="390" y="961" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#999999;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="laOTccNDS0RMXgACTKcb-49" target="laOTccNDS0RMXgACTKcb-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478" y="910" as="sourcePoint" />
+            <mxPoint x="528" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-46" value="企业HR" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="78" y="600" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-47" value="企业员工" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="38.5" y="1051.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-49" value="福利钱包" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="601" y="921" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-51" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="543" y="960.73" as="sourcePoint" />
+            <mxPoint x="600" y="961" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-53" value="线下银联商户" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="180.5" y="1030" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-54" value="POS" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;archiType=rounded;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="393" y="1030" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-56" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;" edge="1" parent="1" source="laOTccNDS0RMXgACTKcb-54" target="laOTccNDS0RMXgACTKcb-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="970.73" as="sourcePoint" />
+            <mxPoint x="610" y="971" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-59" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="laOTccNDS0RMXgACTKcb-34" target="laOTccNDS0RMXgACTKcb-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1130" as="sourcePoint" />
+            <mxPoint x="120" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-60" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="laOTccNDS0RMXgACTKcb-53" target="laOTccNDS0RMXgACTKcb-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330.5" y="1117.5" as="sourcePoint" />
+            <mxPoint x="390" y="1068" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-63" value="扫码支付" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1040" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-66" value="扫码支付" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120.5" y="910" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="laOTccNDS0RMXgACTKcb-67" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#999999;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="laOTccNDS0RMXgACTKcb-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="1010" as="sourcePoint" />
+            <mxPoint x="160" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
