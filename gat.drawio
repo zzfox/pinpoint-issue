@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T08:57:41.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hBC__utjNOu1UG8Iav3V" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T09:02:45.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LPkZs9pkK_mXbv19JWih" version="21.6.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
             <mxPoint x="6" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AxtVGg7IYcrfAcfqh8lZ-128" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AxtVGg7IYcrfAcfqh8lZ-115" target="AxtVGg7IYcrfAcfqh8lZ-103" edge="1">
+        <mxCell id="AxtVGg7IYcrfAcfqh8lZ-128" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AxtVGg7IYcrfAcfqh8lZ-115" target="AxtVGg7IYcrfAcfqh8lZ-103" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="142" y="402" as="sourcePoint" />
             <mxPoint x="302" y="560" as="targetPoint" />
@@ -76,7 +76,7 @@
         </mxCell>
         <mxCell id="AxtVGg7IYcrfAcfqh8lZ-129" value="4、接收事件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AxtVGg7IYcrfAcfqh8lZ-128" vertex="1" connectable="0">
           <mxGeometry x="-0.0502" relative="1" as="geometry">
-            <mxPoint y="-21" as="offset" />
+            <mxPoint x="8" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YqyLxGMj1GTobC0pw4qq-15" value="&lt;b&gt;accounting-engine&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;flipH=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
         </mxCell>
         <mxCell id="YqyLxGMj1GTobC0pw4qq-23" value="5.1、校验/保存数据，创建会员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YqyLxGMj1GTobC0pw4qq-16">
           <mxGeometry x="-0.2778" y="-4" relative="1" as="geometry">
-            <mxPoint x="104" y="-142" as="offset" />
+            <mxPoint x="130" y="-142" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YqyLxGMj1GTobC0pw4qq-25" value="7、调用dpm记账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YqyLxGMj1GTobC0pw4qq-16">
@@ -170,9 +170,9 @@
             <mxPoint x="410" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YqyLxGMj1GTobC0pw4qq-38" value="获取余额不足/会员不存在重试" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YqyLxGMj1GTobC0pw4qq-37">
+        <mxCell id="YqyLxGMj1GTobC0pw4qq-38" value="获取待重试数据（余额不足/会员不存）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YqyLxGMj1GTobC0pw4qq-37">
           <mxGeometry x="0.075" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-24" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YqyLxGMj1GTobC0pw4qq-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AxtVGg7IYcrfAcfqh8lZ-109" target="AxtVGg7IYcrfAcfqh8lZ-105">
@@ -181,7 +181,7 @@
             <mxPoint x="410" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YqyLxGMj1GTobC0pw4qq-40" value="重试记账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YqyLxGMj1GTobC0pw4qq-39">
+        <mxCell id="YqyLxGMj1GTobC0pw4qq-40" value="发起记账重试" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YqyLxGMj1GTobC0pw4qq-39">
           <mxGeometry x="0.0245" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
